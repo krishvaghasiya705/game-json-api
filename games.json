@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Call of Duty",
+      "platform": "PC",
+      "genre": "FPS",
+      "size": "45GB",
+      "downloadUrl": "https://example.com/download/cod",
+      "thumbnail": "https://example.com/images/cod.jpg"
+    },
+    {
+      "id": 2,
+      "title": "GTA V",
+      "platform": "PC",
+      "genre": "Action",
+      "size": "65GB",
+      "downloadUrl": "https://example.com/download/gta5",
+      "thumbnail": "https://example.com/images/gta5.jpg"
+    }
+  ]
+  
